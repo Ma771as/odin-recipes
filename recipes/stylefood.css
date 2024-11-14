@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+}
+
+/* navigation bar style */
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(91, 91, 91);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: rgb(80, 80, 80);
+}
+
+.navbar li{
+    float: left;
+}
+
+/* style immage */
+
+.immage {
+    margin-top: 10px;
+    margin: 10px;
+}
